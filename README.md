@@ -1,1 +1,3 @@
-# Hackintosh_OC_Big-Sur_Asus-TUF-Gaming-B460M-Plus-Wifi_i7-10700K-3.8Ghz
+Big Sur 11.2.3 successfully installed on Asus TUF B460M WIFI + Intel i7-10700K
+
+Everything working fine except Airdrop.
