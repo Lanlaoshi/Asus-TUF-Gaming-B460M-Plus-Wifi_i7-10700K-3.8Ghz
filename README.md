@@ -1,0 +1,1 @@
+# Hackintosh_OC_Big-Sur_Asus-TUF-Gaming-B460M-Plus-Wifi_i7-10700K-3.8Ghz
